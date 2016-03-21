@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  category: MyString
+  type: 
+  phash: MyString
+
+two:
+  category: MyString
+  type: 
+  phash: MyString
